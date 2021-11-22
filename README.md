@@ -12,7 +12,7 @@
 if credentials.username != "admin" or credentials.password != "admin":
 ```
 
-所需环境请到 [搭建在线 Blog](http://localhost:4000/2021/11/22/%E6%90%AD%E5%BB%BA%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91Blog/) & [超详细配置](https://www.sanzro.xyz/2021/08/13/Docker-CentOS-7-Anaconda-FastAPI-PostgreSQL-%E8%B6%85%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE-%E5%87%BA%E9%94%99%E8%A7%A3%E5%86%B3/) 进行查阅<br><br>
+所需环境请到 [搭建在线 Blog](https://www.sanzro.xyz/2021/11/22/CEHNbM7VN4HLguoM/) & [超详细配置](https://www.sanzro.xyz/2021/08/13/Docker-CentOS-7-Anaconda-FastAPI-PostgreSQL-%E8%B6%85%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE-%E5%87%BA%E9%94%99%E8%A7%A3%E5%86%B3/) 进行查阅<br><br>
 
 *** 另外还需要在 /app/ 路径的同级下创建一个 /blog/assets/ 文件夹📂路径，以放上传的图片 ***<br><br>
 
